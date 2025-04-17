@@ -8,7 +8,7 @@
 - 🤝 Looking to connect with fellow learners and coding communities
 
 ### Let's connect!
-- 📫 Reach me at: contactmuhtadin@gmail.com
-- 🌟 Open to collaborate on beginner-friendly projects
+- 📫 Reach me at: contact@khmuhtadin.com
+- 🌟 Open to collaborate
 
 cheers!
