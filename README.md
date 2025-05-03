@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # From Ads to Apps
 🚀 Performance Marketer -> programming
 
