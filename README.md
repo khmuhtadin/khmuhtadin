@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-🚀 Performance Marketer diving into the world of programming
+# From Ads to Apps
+🚀 Performance Marketer -> programming
 
 ### What I'm up to:
 - 🌱 Currently learning web development and programming fundamentals
