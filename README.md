@@ -31,6 +31,6 @@ My work focuses on the parts that make automation usable in production: authenti
 
 ## Work with me
 
-For a focused n8n project, API integration, or workflow reliability review, [message me on Upwork](https://www.upwork.com/freelancers/khmuhtadin?utm_source=github&utm_medium=profile&utm_campaign=upwork_profile).
+For a focused n8n project, API integration, or workflow reliability review, [get in touch through my website](https://khmuhtadin.com/contact/).
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/khmuhtadin).
