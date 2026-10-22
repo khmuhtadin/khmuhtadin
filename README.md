@@ -20,7 +20,7 @@ My work focuses on the parts that make automation usable in production: authenti
 - [n8n Nodes for API Indonesia](https://github.com/khmuhtadin/n8n-nodes-api-indonesia): community nodes for Indonesian public data
 - [StudioAPI](https://github.com/khmuhtadin/studioapi): API service implementation
 - [n8n as Code](https://github.com/khmuhtadin/n8n-as-code): tooling for schema-aware n8n development
-- [MetoSheet](https://github.com/khmuhtadin/MetoSheet): multi-account Meta Ads data synchronization
+- [Foxtation](https://github.com/khmuhtadin/foxtation): local voice dictation for macOS with optional cloud cleanup
 
 ## How I work
 
